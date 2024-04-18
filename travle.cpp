@@ -12,6 +12,7 @@ void initialize(vector<vector<int>> &dist, vector<vector<int>> &prev, vector<str
 void floyd_warshall(vector<vector<int>> &dist, vector<vector<int>> &prev);
 void shortest_path(string start_country, string end_country, vector<vector<int>> prev, vector<string> countries);
 int sp_recursion(int i, int j, vector<vector<int>> prev, vector<string> countries);
+void country_lookup(char letter, vector<string> countries);
 
 int main()
 {
@@ -22,8 +23,39 @@ int main()
     countries_graph = import(countries);
     initialize(dist, prev, countries, countries_graph);
     floyd_warshall(dist, prev);
-    shortest_path("Canada", "Brazil", prev, countries);
-    shortest_path("Finland", "South Africa", prev, countries);
+    int x, loop = 1;
+    string start_country, end_country;
+    char letter;
+    cout << "Welcome to the Travle Cheat Guide! Here you can find the shortest distance between two countries for all your travle.earth needs!\n"
+         << "To continue, enter one of the numbers below, depending on what you need :D"
+         << "Also, for the country lookup, enter your letter as a capital please :)" << endl;
+    while (loop == 1)
+    {
+        cout << "1. Find the Shortest Path between 2 Countries\n"
+             << "2. Search for a country\n"
+             << "3. Exit the program" << endl;
+        cin >> x;
+        switch (x)
+        {
+            case 1:
+                cout << "Enter the Start Country:" << endl;
+                getline(cin, start_country);
+                getline(cin, start_country); // it just works
+                cout << "Enter the End Country:" << endl;
+                getline(cin, end_country);
+                shortest_path(start_country, end_country, prev, countries);
+                break;
+            case 2:
+                cout << "Enter the starting letter of the country you wish to find: ";
+                cin >> letter;
+                country_lookup(letter, countries);
+                break;
+            default:
+                cout << "Thank you for using the Travle Cheat Guide, have an above average day :)" << endl;
+                loop = 0;
+                break;
+        }
+    }
     return 0;
 }
 
@@ -150,4 +182,26 @@ int sp_recursion(int i, int j, vector<vector<int>> prev, vector<string> countrie
         cout << countries[prev[i][j]] << " -> ";
         sp_recursion(i, prev[i][j], prev, countries);
     }
+}
+
+void country_lookup(char letter, vector<string> countries)
+{
+    vector<int> c;
+    cout << "Countries starting with " << letter << endl;
+    for (int i = 0; i < 196; i++)
+    {
+        if (countries[i][0] == letter)
+        {
+            c.push_back(i);
+        }
+    }
+    if (countries[196][0] == letter)
+    {
+        c.push_back(196);
+    }
+    for (int j = 0; j < c.size()-1; j++)
+    {
+        cout << countries[c[j]] << ", ";
+    }
+    cout << countries[c[c.size()-1]] << endl;
 }
