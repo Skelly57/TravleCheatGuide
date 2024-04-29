@@ -1,14 +1,21 @@
 Afghanistan,China,Iran,Pakistan,Tajikistan,Turkmenistan,Uzbekistan
+Aland
 Albania,Greece,Kosovo,North Macedonia,Montenegro
-Algeria,Libya,Mali,Mauritania,Morocco,Niger,Tunisia
+Algeria,Libya,Mali,Mauritania,Morocco,Niger,Tunisia,Western Sahara
+American Samoa
 Andorra,France,Spain
 Angola,Democratic Republic of the Congo,Republic of the Congo,Namibia,Zambia
+Anguilla
+Antarctica
 Antigua and Barbuda
 Argentina,Bolivia,Brazil,Chile,Paraguay,Uruguay
 Armenia,Azerbaijan,Georgia,Iran,Turkey
+Aruba
+Ashmore and Cartier Islands
 Australia
 Austria,Czech Republic,Germany,Hungary,Italy,Liechtenstein,Slovakia,Slovenia,Switzerland
-Azerbaijan,Armenia,Georgia,Iran,Russia,Turkey
+Azerbaijan,Armenia,Georgia,Iran,Russia
+Azores
 Bahamas
 Bahrain,Saudi Arabia
 Bangladesh,India,Myanmar
@@ -17,35 +24,44 @@ Belarus,Latvia,Lithuania,Poland,Russia,Ukraine
 Belgium,France,Germany,Luxembourg,Netherlands
 Belize,Guatemala,Mexico
 Benin,Burkina Faso,Niger,Nigeria,Togo
+Bermuda
 Bhutan,China,India
 Bolivia,Argentina,Brazil,Chile,Paraguay,Peru
 Bosnia and Herzegovina,Croatia,Montenegro,Serbia
 Botswana,Namibia,South Africa,Zambia,Zimbabwe
-Brazil,Argentina,Bolivia,Colombia,Guyana,Paraguay,Peru,Suriname,Uruguay,Venezuela
+Brazil,Argentina,Bolivia,Colombia,French Guiana,Guyana,Paraguay,Peru,Suriname,Uruguay,Venezuela
+British Indian Ocean Territory
+British Virgin Islands
 Brunei,Malaysia
 Bulgaria,Greece,North Macedonia,Romania,Serbia,Turkey
 Burkina Faso,Benin,Cote d Ivoire,Ghana,Mali,Niger,Togo
 Burundi,Democratic Republic of the Congo,Rwanda,Tanzania
 Cambodia,Laos,Thailand,Vietnam
 Cameroon,Central African Republic,Chad,Republic of the Congo,Equatorial Guinea,Gabon,Nigeria
-Canada,United States
+Canada,Greenland,United States
 Cape Verde
+Caribbean Netherlands
+Cayman Islands
 Central African Republic,Cameroon,Chad,Democratic Republic of the Congo,Republic of the Congo,South Sudan,Sudan
 Chad,Cameroon,Central African Republic,Libya,Niger,Nigeria,Sudan
 Chile,Argentina,Bolivia,Peru
-China,Afghanistan,Bhutan,India,Kazakhstan,North Korea,Kyrgyzstan,Laos,Mongolia,Myanmar,Nepal,Pakistan,Russia,Tajikistan,Vietnam
+Christmas Island
+Cocos (Keeling) Islands
+China,Afghanistan,Bhutan,India,Hong Kong,Kazakhstan,Macau,North Korea,Kyrgyzstan,Laos,Mongolia,Myanmar,Nepal,Pakistan,Russia,Siachen Glacier,Tajikistan,Vietnam
 Colombia,Brazil,Ecuador,Panama,Peru,Venezuela
 Comoros
+Cook Islands
 Democratic Republic of the Congo,Angola,Burundi,Central African Republic,Republic of the Congo,Rwanda,South Sudan,Tanzania,Uganda,Zambia
 Republic of the Congo,Angola,Cameroon,Central African Republic,Democratic Republic of the Congo,Gabon
 Costa Rica,Nicaragua,Panama
 Cote d Ivoire,Burkina Faso,Ghana,Guinea,Liberia,Mali
 Croatia,Bosnia and Herzegovina,Hungary,Montenegro,Serbia,Slovenia
 Cuba
-Cyprus
+Curacao
+Cyprus,Turkish Republic of Northern Cyprus
 Czech Republic,Austria,Germany,Poland,Slovakia
-Denmark,Germany
-Djibouti,Eritrea,Ethiopia
+Denmark,Germany,Sweden
+Djibouti,Eritrea,Ethiopia,Somaliland
 Dominica
 Dominican Republic,Haiti
 East Timor,Indonesia
@@ -56,34 +72,48 @@ Equatorial Guinea,Cameroon,Gabon
 Eritrea,Djibouti,Ethiopia,Sudan
 Estonia,Latvia,Russia
 Eswatini,Mozambique,South Africa
-Ethiopia,Djibouti,Eritrea,Kenya,Somalia,South Sudan,Sudan
+Ethiopia,Djibouti,Eritrea,Kenya,Somalia,Somaliland,South Sudan,Sudan
+Falkland Islands
+Faroe Islands
 Fiji
 Finland,Norway,Sweden,Russia
-France,Andorra,Belgium,Germany,Italy,Luxembourg,Monaco,Spain,Switzerland
+France,Andorra,Belgium,Germany,Italy,Luxembourg,Monaco,United Kingdom,Spain,Switzerland
+French Guiana,Brazil,Suriname
+French Polynesia
+French Southern and Antarctic Lands
 Gabon,Cameroon,Republic of the Congo,Equatorial Guinea
 Gambia,Senegal
 Georgia,Armenia,Azerbaijan,Russia,Turkey
 Germany,Austria,Belgium,Czech Republic,Denmark,France,Luxembourg,Netherlands,Poland,Switzerland
 Ghana,Burkina Faso,Cote d Ivoire,Togo
 Greece,Albania,Bulgaria,Turkey,North Macedonia
+Greenland,Canada
 Grenada
+Guadeloupe
+Guam
 Guatemala,Belize,El Salvador,Honduras,Mexico
+Guernsey
 Guinea,Cote d Ivoire,Guinea Bissau,Liberia,Mali,Senegal,Sierra Leone
 Guinea Bissau,Guinea,Senegal
 Guyana,Brazil,Suriname,Venezuela
 Haiti,Dominican Republic
+Heard Island and McDonald Islands
 Honduras,Guatemala,El Salvador,Nicaragua
 Hungary,Austria,Croatia,Romania,Serbia,Slovakia,Slovenia,Ukraine
+Hong Kong,China
 Iceland
-India,Bangladesh,Bhutan,China,Myanmar,Nepal,Pakistan,Sri Lanka
+India,Bangladesh,Bhutan,China,Myanmar,Nepal,Pakistan,Siachen Glacier,Sri Lanka
 Indonesia,East Timor,Malaysia,Papua New Guinea
 Iran,Afghanistan,Armenia,Azerbaijan,Iraq,Pakistan,Turkey,Turkmenistan
 Iraq,Iran,Jordan,Kuwait,Saudi Arabia,Syria,Turkey
 Ireland,United Kingdom
+Isle of Man
 Israel,Egypt,Jordan,Lebanon,Palestine,Syria
 Italy,Austria,France,San Marino,Slovenia,Switzerland,Vatican City
 Jamaica
+Jan Mayen
 Japan
+Jersey
 Jordan,Iraq,Israel,Palestine,Saudi Arabia,Syria
 Kazakhstan,China,Kyrgyzstan,Russia,Turkmenistan,Uzbekistan
 Kenya,Ethiopia,Somalia,South Sudan,Tanzania,Uganda
@@ -102,36 +132,45 @@ Libya,Algeria,Chad,Egypt,Niger,Sudan,Tunisia
 Liechtenstein,Austria,Switzerland
 Lithuania,Belarus,Latvia,Poland
 Luxembourg,Belgium,France,Germany
+Macau,China
 Madagascar
+Madeira
 Malawi,Mozambique,Tanzania,Zambia
 Malaysia,Brunei,Indonesia,Thailand
 Maldives
 Mali,Algeria,Burkina Faso,Cote d Ivoire,Guinea,Mauritania,Niger,Senegal
 Malta
 Marshall Islands
-Mauritania,Algeria,Mali,Senegal
+Martinique
+Mauritania,Algeria,Mali,Senegal,Western Sahara
 Mauritius
+Mayotte
 Mexico,Belize,Guatemala,United States
 Micronesia
 Moldova,Romania,Ukraine
 Monaco,France
 Mongolia,China,Russia
 Montenegro,Albania,Bosnia and Herzegovina,Croatia,Kosovo,Serbia
-Morocco,Algeria
+Montserrat
+Morocco,Algeria,Western Sahara
 Mozambique,Eswatini,Malawi,South Africa,Tanzania,Zambia,Zimbabwe
 Myanmar,Bangladesh,China,India,Laos,Thailand
 Namibia,Angola,Botswana,South Africa,Zambia
 Nauru
 Nepal,China,India
 Netherlands,Belgium,Germany
+New Caledonia
 New Zealand
 Nicaragua,Costa Rica,Honduras
 Niger,Algeria,Benin,Burkina Faso,Chad,Libya,Mali,Nigeria
 Nigeria,Benin,Cameroon,Chad,Niger
+Niue
+Norfolk Island
 North Macedonia,Albania,Bulgaria,Greece,Kosovo,Serbia
+Northern Mariana Islands
 Norway,Finland,Sweden,Russia
 Oman,Saudi Arabia,United Arab Emirates,Yemen
-Pakistan,Afghanistan,China,India,Iran
+Pakistan,Afghanistan,China,India,Iran,Siachen Glacier
 Palau
 Palestine,Egypt,Israel,Jordan
 Panama,Colombia,Costa Rica
@@ -139,14 +178,21 @@ Papua New Guinea,Indonesia
 Paraguay,Argentina,Bolivia,Brazil
 Peru,Bolivia,Brazil,Chile,Colombia,Ecuador
 Philippines
+Pitcairn Islands
 Poland,Belarus,Czech Republic,Germany,Lithuania,Slovakia,Ukraine
 Portugal,Spain
+Puerto Rico
 Qatar,Saudi Arabia
+Reunion
 Romania,Bulgaria,Hungary,Moldova,Serbia,Ukraine
 Russia,Azerbaijan,Belarus,China,Estonia,Finland,Georgia,Kazakhstan,North Korea,Latvia,Mongolia,Norway,Ukraine
 Rwanda,Burundi,Democratic Republic of the Congo,Tanzania,Uganda
+Saint Barthelemy
+Saint Helena
 Saint Kitts and Nevis
 Saint Lucia
+Saint Martin
+Saint Pierre and Miquelon
 Saint Vincenet and the Grenadines
 Samoa
 San Marino,Italy
@@ -155,19 +201,24 @@ Saudi Arabia,Bahrain,Iraq,Jordan,Kuwait,Oman,Qatar,United Arab Emirates,Yemen
 Senegal,Gambia,Guinea,Guinea Bissau,Mali,Mauritania
 Serbia,Bosnia and Herzegovina,Bulgaria,Croatia,Hungary,Kosovo,Montenegro,North Macedonia,Romania
 Seychelles
+Siachen Glacier,China,India,Pakistan
 Sierra Leone,Guinea,Liberia
 Singapore
+Sint Maarten
 Slovakia,Austria,Czech Republic,Hungary,Poland,Ukraine
 Slovenia,Austria,Croatia,Italy,Hungary
 Solomon Islands
-Somalia,Djibouti,Ethiopia,Kenya
+Somalia,Djibouti,Ethiopia,Kenya,Somaliland
+Somaliland,Djibouti,Ethiopia,Somalia
 South Africa,Botswana,Eswatini,Lesotho,Mozambique,Namibia,Zimbabwe
+South Georgia and the South Sandwich Islands
 South Sudan,Central African Republic,Democratic Republic of the Congo,Ethiopia,Kenya,Sudan,Uganda
-Spain,Andorra,France,Portugal,Morocco
+Spain,Andorra,France,Portugal
 Sri Lanka,India
 Sudan,Central African Republic,Chad,Egypt,Eritrea,Ethiopia,Libya,South Sudan
-Suriname,Brazil,Guyana
-Sweden,Finland,Norway
+Suriname,Brazil,French Guiana,Guyana
+Svalbard
+Sweden,Denmark,Finland,Norway
 Switzerland,Austria,France,Italy,Liechtenstein,Germany
 Syria,Iraq,Israel,Jordan,Lebanon,Turkey
 Taiwan
@@ -175,23 +226,29 @@ Tajikistan,Afghanistan,China,Kyrgyzstan,Uzbekistan
 Tanzania,Burundi,Democratic Republic of the Congo,Kenya,Malawi,Mozambique,Rwanda,Uganda,Zambia
 Thailand,Cambodia,Laos,Malaysia,Myanmar
 Togo,Benin,Burkina Faso,Ghana
+Tokelau
 Tonga
 Trinidad and Tobago
 Tunisia,Algeria,Libya
-Turkey,Armenia,Azerbaijan,Bulgaria,Georgia,Greece,Iran,Iraq,Syria
+Turkey,Armenia,Bulgaria,Georgia,Greece,Iran,Iraq,Syria
+Turkish Republic of Northern Cyprus,Cyprus
 Turkmenistan,Afghanistan,Iran,Kazakhstan,Uzbekistan
+Turks and Caicos Islands
 Tuvalu
 Uganda,Democratic Republic of the Congo,Kenya,Rwanda,South Sudan,Tanzania
 Ukraine,Belarus,Hungary,Moldova,Poland,Romania,Russia,Slovakia
 United Arab Emirates,Oman,Saudi Arabia
-United Kingdom,Ireland
+United Kingdom,France,Ireland
 United States,Canada,Mexico
+United States Virgin Islands
 Uruguay,Argentina,Brazil
 Uzbekistan,Afghanistan,Kazakhstan,Kyrgyzstan,Tajikistan,Turkmenistan
 Vanuatu
 Vatican City,Italy
 Venezuela,Brazil,Colombia,Guyana
 Vietnam,Cambodia,China,Laos
+Wallis and Futuna
+Western Sahara,Algeria,Morocco,Mauritania
 Yemen,Oman,Saudi Arabia
 Zambia,Angola,Botswana,Democratic Republic of the Congo,Malawi,Mozambique,Namibia,Tanzania,Zimbabwe
 Zimbabwe,Botswana,Mozambique,South Africa,Zambia
